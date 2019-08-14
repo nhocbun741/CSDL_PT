@@ -1,0 +1,204 @@
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Dell\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhoa.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v18.2.Core.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Images.v18.2.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmKhoa.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBangDiem.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLop.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBoDe.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmGiaoVien.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmGiaoVienDangKi.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMonHoc.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSinhVien.resources
+F:\CSDL Phan Tan\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmThi.resources
